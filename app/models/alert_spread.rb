@@ -1,0 +1,2 @@
+class AlertSpread < ApplicationRecord
+end
