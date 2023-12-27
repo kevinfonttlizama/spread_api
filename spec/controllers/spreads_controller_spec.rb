@@ -19,3 +19,4 @@ RSpec.describe SpreadsController, type: :controller do
 
   # Más pruebas para set_alert_spread y alert_spread
 end
+|
